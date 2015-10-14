@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureGenerator", "TreasureGenerator\TreasureGenerator.csproj", "{ED8D716A-2656-483E-A8B2-1B2F759596A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTreasureGenerator", "ConsoleTreasureGenerator\ConsoleTreasureGenerator.csproj", "{300660D4-E69F-42A5-B7AF-F603D0E43365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8D716A-2656-483E-A8B2-1B2F759596A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8D716A-2656-483E-A8B2-1B2F759596A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8D716A-2656-483E-A8B2-1B2F759596A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8D716A-2656-483E-A8B2-1B2F759596A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300660D4-E69F-42A5-B7AF-F603D0E43365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300660D4-E69F-42A5-B7AF-F603D0E43365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300660D4-E69F-42A5-B7AF-F603D0E43365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300660D4-E69F-42A5-B7AF-F603D0E43365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
